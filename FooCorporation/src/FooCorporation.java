@@ -20,7 +20,7 @@ class FooCorporation {
 		//Calculates pay
 		pay = wage * hoursWorked;
 		pay += overtimeHours * wage * overtime;
-		System.out.println(pay);
+		System.out.println("Your pay should be: "+pay);
 	}
 	
 	public static void main(String[] args) {
@@ -34,7 +34,7 @@ class FooCorporation {
 		if (hoursWorked <= 60 && wage > 8){
 			incomeCalc(hoursWorked, wage);
 		}else{
-			System.out.println("Wage should be over $8 and hours should be less than 80.");
+			System.out.println("Wage should be over $8 and hours worked should be less than 60.");
 		}
 		
 	}
