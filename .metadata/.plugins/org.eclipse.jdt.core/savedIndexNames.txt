@@ -1,3 +1,0 @@
-INDEX VERSION 1.129+/Users/LeHuynhAnh/Documents/workspace/.metadata/.plugins/org.eclipse.jdt.core
-2828129801.index
-2592100365.index
