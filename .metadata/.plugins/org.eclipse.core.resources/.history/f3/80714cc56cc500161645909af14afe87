@@ -1,0 +1,12 @@
+/* Second Programming Assignment from MIT OpenCourseware 6.092
+ * Michael Le | le.michael6@gmail.com
+ */
+class FooCorporation {
+
+	public static void main(String[] args) {
+
+		String five = 5;
+		
+	}
+
+}

@@ -1,0 +1,16 @@
+/* Second Programming Assignment from MIT OpenCourseware 6.092
+ * Michael Le | le.michael6@gmail.com
+ */
+class FooCorporation {
+	public static void square(double x){
+		System.out.println(x*x);
+	}
+	
+	public static void main(String[] args) {
+		int x = 5;
+		square(x);
+		square(8);
+		square(x*2);
+	}
+
+}
