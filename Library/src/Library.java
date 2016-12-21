@@ -1,3 +1,8 @@
+/* Fourth assignment from MIT Opencourseware
+ * Michael Le @ le.michael6@gmail.com
+ * This program demonstrates the use of arrays, classes, objects,
+ * references, methods.
+ */
 import java.util.ArrayList;
 
 public class Library {
